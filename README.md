@@ -2,11 +2,11 @@
 
 基于 BBQ 成对弱证据任务，考察模型在证据归属交换后，是否给出与证据变化一致的判断，并比较示例、显式推理与去偏指令的影响。
 
-本项目沿用 **Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting** 的 BBQ 实验思路，在新的模型接口上进行部分复现与评测适配；实验方法与数据来自原作者，项目工作集中于实验执行、数据检查、异常复核与统计分析。
+本项目沿用 **Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting** 的 BBQ 实验思路，在新的模型接口上进行部分复现与评测适配；项目工作集中于实验执行、数据检查、异常复核与统计分析。
 
 - [原论文](https://arxiv.org/abs/2305.04388)
 - [原作者代码与处理后数据](https://github.com/milesaturpin/cot-unfaithfulness)，固定提交 `df099452736946533f59498a90c23be3f09631c4`
-- 模型接口：TokenDance 的 `qwen3.8-flash`；这是平台报告的模型标识，未独立验证底层权重版本或内部推理设置。
+- 模型接口： `qwen3.8-flash`；这是平台报告的模型标识，未独立验证底层权重版本或内部推理设置。
 
 ## 实验设计
 
