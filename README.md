@@ -90,4 +90,3 @@ python run_bbq_parallel.py
 - `experiments/qwen38_bbq/`：无密钥配置、固定抽样清单、人工标注及必要统计结果。
 - `data/source_manifest.json`：源版本及校验值。
 
-项目在 AI 编程助手辅助下完成实现与整理。整理时新增数据获取和结果验证工具；统计脚本仅调整输出位置，逐题统计输入由历史结果移除回答全文得到。方法、示例及数据归功于原作者，代码保留上游 MIT 许可声明，详见 [NOTICE.md](NOTICE.md)。
