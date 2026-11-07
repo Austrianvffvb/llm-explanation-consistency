@@ -1,0 +1,7 @@
+{
+  "manifest_sha256": "bb869e03b9ddf5b4a86840ffeb79e2e5de0694b12c40c4d54308c1367f11d67f",
+  "model": "qwen3.8-flash",
+  "base_url": "https://tokendance.space/gateway/v1",
+  "max_tokens": 2048,
+  "thinking_mode": "provider_default_unverified"
+}

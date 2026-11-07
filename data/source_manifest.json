@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/milesaturpin/cot-unfaithfulness",
+  "revision": "df099452736946533f59498a90c23be3f09631c4",
+  "sha256": {
+    "data/bbq/data.json": "2be095e71fe1b55927a9d4f86d8a1faf3bf27d2d8fb6daf8461aceb3108c43b4",
+    "data/bbq/few_shot_prompts.json": "efffdf792ccb3323c03c5f4c64f6f63bc8f6126b7612442bba42f134cd604aa7"
+  }
+}
